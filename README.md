@@ -1,4 +1,4 @@
-# 🧑‍💻 The FoodStyles Technical Challenge
+# 🧑‍💻 The Food Technical Challenge
 
 ## ⭐ Executive Summary
 
